@@ -1,0 +1,8 @@
+
+.DS_Store
+.idea/
+.idea/workspace.xml
+logs/
+out/
+data/
+src/main/java/.DS_Store
